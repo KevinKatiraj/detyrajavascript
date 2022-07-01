@@ -1,0 +1,50 @@
+.container{
+    width: 800px;
+    margin: 0 auto;
+    background-color: whitesmoke;
+    padding: 20px;
+}
+
+h1{
+    color: gray;
+    text-align: center;
+    margin: 10px;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+    padding: 20px;
+
+}
+
+.one {
+    border: 1px solid lightskyblue;
+    background-color: lightskyblue;
+    
+}
+
+.two{
+    border: 1px solid lightpink;
+    background-color: lightpink;
+    justify-content: space-evenly;
+    
+
+}
+
+.three{
+    border: 1px solid white;
+    background-color: white;
+    
+}
+
+
+
+.img{
+    height: 200px;
+}
+
+p{
+    text-align: center;
+}
