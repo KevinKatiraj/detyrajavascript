@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.AssemblyInfo.cs
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.exe
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.deps.json
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.runtimeconfig.json
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.dll
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\bin\Debug\net6.0\Hungry-Ninja.pdb
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.dll
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\refint\Hungry-Ninja.dll
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.pdb
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\Hungry-Ninja.genruntimeconfig.cache
+C:\Users\User\Desktop\Dojo_Assignments\C#\Hungry-Ninja\obj\Debug\net6.0\ref\Hungry-Ninja.dll
